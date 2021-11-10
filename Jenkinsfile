@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Example Build') {
             steps {
-                echo 'Hello World'
+                echo 'Hello World this is for testing'
             }
         }
         stage('Example Deploy') {
